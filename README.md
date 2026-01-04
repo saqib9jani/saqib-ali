@@ -1,3 +1,4 @@
-# saqib-ali authir saqib ali
+# saqib-ali 
 <br>
+author saqib ali
 this is my first repository
